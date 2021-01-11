@@ -1,5 +1,5 @@
 # Prokey™
-Prokey is a registered trademark and if you want to use this repository you MUST NOT use this brand/name.
+Prokey is a registered trademark so if you wish to use this repository in your open source project, you MUST NOT use this brand/name even on your sample boards.
 Check [Prokey official website](https://prokey.io)
 
 ## License
